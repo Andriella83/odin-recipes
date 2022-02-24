@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    margin-left: 20px;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+ul a {
+    font-size: 22px;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    float: left;
+    padding: 20px;
+}
+
+ul.ingredients {
+    text-align: left;
+}
+
+ul.ingredients li {
+    padding: 5px;
+}
+
+ol {
+    float: left;
+}
